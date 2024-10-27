@@ -1,0 +1,11 @@
+VE_miv/
+.env
+__pycache__/
+test_250/
+test_1000/
+test_5000/
+dataset/
+wandb/
+Concrete/
+best_model.pth
+model.pth
